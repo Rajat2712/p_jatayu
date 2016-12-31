@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">project_j</string>
+    <string-array name="ser_spinner_menu">
+        <item>None</item>
+        <item>Car Service</item>
+        <item>Insurance</item>
+        <item>Doorstep Service</item>
+        <item>Spare Parts</item>
+        <item>Modify my Car</item>
+        <item>Emergency response</item>
+    </string-array>
+    <string name="google_api_key">AIzaSyDMThAtOQHXcQtFF3HK-BvS4JJf7V7xIfs</string>
+    <string-array name="locate_spinner_menu">
+        <item>None</item>
+        <item>Delhi</item>
+        <item>Punjab</item>
+        <item>Goa</item>
+    </string-array>
+</resources>
